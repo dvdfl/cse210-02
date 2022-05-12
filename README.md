@@ -29,4 +29,9 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Matt Manley (manleym@byui.edu)
+
+* David Flores Luna (flo22001@byui.edu)
+* Hunter Heuser
+* Eleazar Daniel Pequeno Ulloa
+* Matheus Plinta
+* karenn Teran Arvelo
